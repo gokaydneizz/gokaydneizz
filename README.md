@@ -3,7 +3,7 @@
 
 <li>I want to be a MERN Stack Web Developer.</li>
 <li>🌱 I’m currently learning **React and also React-Native**</li>
-<li> I want to make mobile apps with React Native as well. &#128241;</li>
+<li> I want to make mobile apps with React Native as well &#128241;. </li>
 
 
 </p>
