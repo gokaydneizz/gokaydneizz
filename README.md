@@ -5,6 +5,8 @@
 <li>🌱 I’m currently learning <b>React and also React-Native</b></li>
 <li> I want to make mobile apps &#128241; with React Native as well. </li>
 
+<h3>You can see my frontend projects <a href="https://www.frontendmentor.io/profile/quArex-rQer">here</a>   !</h3>
+
 
 </p>
 
