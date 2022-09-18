@@ -1,5 +1,5 @@
 <h1 align="left">Hi,I'm Gokay 👋 </h1>
-<h3 align="left">&#128187; A passionate web dev</h3>
+<h3 align="left">&#128187;A passionate web developer</h3>
 
 <li>I want to be a MERN Stack Web Developer.</li>
 <li>🌱 I’m currently learning <b>React and also React-Native</b></li>
