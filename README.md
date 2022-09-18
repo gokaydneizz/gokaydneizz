@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React and also React-Native**
 -  I want to be a MERN Stack Web Developer.
--  I want to create Mobile Apps with React Native as well &#128241.
+<li> I want to create Mobile Apps with React Native as well &#128241. </li> 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
