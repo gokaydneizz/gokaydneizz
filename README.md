@@ -1,10 +1,8 @@
-<h1 align="center">Hi 👋, I'm Gokay</h1>
-<h3 align="center">&#128187; A passionate web dev</h3>
+<h1 align="left">Hi 👋, I'm Gokay</h1>
+<h3 align="left">&#128187; A passionate web dev</h3>
 
 - 🌱 I’m currently learning **React and also React-Native**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
