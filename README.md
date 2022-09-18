@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gokay</h1>
-<h3 align="center">A passionate web and mobile app dev. &#128187;</h3>
+<h3 align="center">&#128187; A passionate web and mobile app dev. </h3>
 
 - 🌱 I’m currently learning **React and also React-Native**
 
