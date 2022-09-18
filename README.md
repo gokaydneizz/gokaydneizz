@@ -1,9 +1,9 @@
 <h1 align="left">Hi 👋, I'm Gokay</h1>
 <h3 align="left">&#128187; A passionate web dev</h3>
 
-- 🌱 I’m currently learning **React and also React-Native*(
--I want to be a MERN Stack Web Developer  &#128241;.
--I want to create Mobile Apps with React Native as well/
+- 🌱 I’m currently learning **React and also React-Native**
+-I want to be a MERN Stack Web Developer.
+-I want to create Mobile Apps with React Native as well &#128241
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
