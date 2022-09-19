@@ -2,8 +2,8 @@
 <h3 align="left">&#128187;A passionate web developer</h3>
 
 <li>I want to be a MERN Stack Web Developer.</li>
-<li>🌱 I’m currently learning <b>React and also React-Native</b></li>
-<li> I want to make mobile apps &#128241; with React Native as well. </li>
+<li>🌱 I’m currently learning <b>React and also React-Native &#128241;</b></li>
+
 
 <h3>You can see my frontend projects <a href="https://www.frontendmentor.io/profile/quArex-rQer">here</a>!</h3>
 <hr/>
