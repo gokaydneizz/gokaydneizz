@@ -1,7 +1,7 @@
 <h1 align="left">Hi,I'm Gokay 👋 </h1>
 <h3 align="left">&#128187;A passionate web developer</h3>
 
-<li>I want to be a MERN Stack Web Developer.</li>
+<li>I want to be a Web and Mobile App developer.</li>
 <li>🌱 I’m currently learning <b>React & React-Native &#128241;</b></li>
 
 
