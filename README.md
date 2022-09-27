@@ -5,7 +5,7 @@
 <li>🌱 I’m currently learning <b>React & React-Native &#128241;</b></li>
 
 
-<h3>You can see my frontend projects <a href="https://www.frontendmentor.io/profile/quArex-rQer" target="_blank">here</a>!</h3>
+<h3>You can see my frontend projects <a target="_blank" href="https://www.frontendmentor.io/profile/quArex-rQer">here</a>!</h3>
 <hr/>
 
 </p>
