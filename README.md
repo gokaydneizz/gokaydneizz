@@ -3,6 +3,7 @@
 
 <li>I want to be a Web and Mobile App developer.</li>
 <li>🌱 I’m currently learning <b>React & React-Native &#128241;</b></li>
+<li>I generally work with JavaScript and pure CSS.</b></li>
 
 
 <h3>You can see my frontend projects <a target="_blank" href="https://www.frontendmentor.io/profile/quArex-rQer">here</a>!</h3>
