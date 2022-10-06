@@ -6,7 +6,7 @@
 <li>I generally work with JavaScript and pure CSS.</b></li>
 
 
-<h3>You can see my frontend projects <a target="_blank" href="https://www.frontendmentor.io/profile/quArex-rQer">here</a>!</h3>
+<h3>You can see some of my frontend projects <a target="_blank" href="https://www.frontendmentor.io/profile/quArex-rQer">here</a>!</h3>
 <hr/>
 
 </p>
