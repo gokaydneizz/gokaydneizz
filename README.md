@@ -2,7 +2,7 @@
 <h3 align="left">&#128187;A passionate web developer</h3>
 
 <li>I want to be a Web and Mobile App developer.</li>
-<li>🌱 I’m currently learning <b>React & React-Native &#128241;</b></li>
+<li>I’m currently learning <b>React & React-Native &#128241;</b></li>
 <li>I generally work with JavaScript and pure CSS.</b></li>
 
 
