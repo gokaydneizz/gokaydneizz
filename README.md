@@ -7,7 +7,7 @@
 <li>You can see my codewars profile where i train my algorithm skills from <a target="_blank" href="https://www.codewars.com/users/quarex">here</a></b></li>
 
 
-<h3>You can see some of my frontend projects <a target="_blank" href="https://www.frontendmentor.io/profile/quArex-rQer">here</a>!</h3>
+<h3>You can see some of my frontend projects <a target="_blank" href="https://www.frontendmentor.io/profile/quArex-rQer">here</a> 👨‍💻!</h3>
 <hr/>
 
 </p>
