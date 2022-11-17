@@ -2,7 +2,7 @@
 <h3 align="left">&#128187;A passionate web developer</h3>
 
 <li>I want to be a Web and Mobile App developer.</li>
-<li>I’m currently learning <b>React & React-Native &#128241;</b></li>
+<li>I’m currently learning <b>React,React-Native & Node.Js &#128241;</b></li>
 <li>I generally work with JavaScript and pure CSS.</b></li>
 <li>You can see my codewars profile where i train my algorithm skills from <a target="_blank" href="https://www.codewars.com/users/quarex">here</a></b> 👨‍💻</li>
 
