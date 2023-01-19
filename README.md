@@ -1,5 +1,5 @@
 <h1 align="left">Hi,I'm Gokay 👋 </h1>
-<h3 align="left">&#128187;A passionate MERN Stack Web developer</h3>
+<h3 align="left">&#128187;A passionate Web Developer</h3>
 
 <li>I am on my way to be Full Stack Web and also Mobile App developer.</li>
 <li>I’m currently learning <b>Node.Js,SQL,Typescript,Next.JS &#128241;</b></li>
