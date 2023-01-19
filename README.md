@@ -3,7 +3,7 @@
 
 <li>I am on my way to be Full Stack Web and also Mobile App developer.</li>
 <li>I’m currently learning <b>Node.Js,SQL,Typescript,Next.JS &#128241;</b></li>
-<li>I generally work with JavaScript and pure CSS.</b></li>
+<li>I generally work with React.JS,Vue.JS,pure CSS,vanilla JavaScript and almost all of the JavaScript frameworks !</b></li>
 <li>You can see my codewars profile where i train my algorithm skills from <a target="_blank" href="https://www.codewars.com/users/quarex">here</a></b> 👨‍💻</li>
 
 
