@@ -1,7 +1,7 @@
 <h1 align="left">Hi,I'm Gokay 👋 </h1>
 <h3 align="left">&#128187;A passionate Web Developer</h3>
 
-<li>I am on my way to become a Full Stack Web and also Mobile App developer.</li>
+<li>I'm on my way to become a Full Stack Web Developer and a Mobile App Developer</li>
 <li>I’m currently learning <b>Java to become a Full Stack Developer ! &#128241;</b></li>
 <li>I generally work with React.JS,Vue.JS,pure CSS,vanilla JavaScript and almost all of the JavaScript frameworks !</b></li>
 <li>You can see my codewars profile where i train my algorithm skills from <a target="_blank" href="https://www.codewars.com/users/quarex">here</a></b> 👨‍💻</li>
