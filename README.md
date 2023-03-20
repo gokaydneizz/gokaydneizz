@@ -4,7 +4,7 @@
 <li>I'm on my way to become a Full Stack Web Developer and a Mobile App Developer</li>
 <li>I’m currently learning <b>Java to become a Full Stack Developer ! &#128241;</b></li>
 <li>I generally work with React.JS,Vue.JS,pure CSS,vanilla JavaScript and almost all of the JavaScript frameworks !</b></li>
-<li>You can see my codewars profile where i train my algorithm skills from <a target="_blank" href="https://www.codewars.com/users/quarex">here</a></b> 👨‍💻</li>
+<li>Check out my CodeWars profile to see my algorithm trainings : <a target="_blank" href="https://www.codewars.com/users/quarex">here</a></b> 👨‍💻</li>
 
 
 <h3>You can see some of my frontend projects <a target="_blank" href="https://www.frontendmentor.io/profile/quArex-rQer">here</a> !</h3>
