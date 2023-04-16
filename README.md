@@ -2,7 +2,6 @@
 <h3 align="left">&#128187;A passionate Web Developer</h3>
 
 <li>I'm on my way to become a Full Stack Web Developer and a Mobile App Developer</li>
-<li>I’m currently learning <b>Java to become a Full Stack Developer ! &#128241;</b></li>
 <li>I generally work with React.JS,Vue.JS,pure CSS,vanilla JavaScript and almost all of the JavaScript frameworks !</b></li>
 <li>Check out my CodeWars profile to see my algorithm trainings : <a target="_blank" href="https://www.codewars.com/users/quarex">here</a></b> 👨‍💻</li>
 
