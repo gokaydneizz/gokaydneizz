@@ -1,5 +1,5 @@
 <h1>Fullstack JavaScript Developer</h1>
-<p>I am not only a JavaScript developer but also big fan of it. Tech stack I work right now is : React.JS, TypeScript, Jest(Unit testing), Node.Js, Express.Js, MongoDB(Mongoose), SQL(Prisma) </li>
+<p>I am a JavaScript enthusiast. Tech stack I work right now is : React.JS, TypeScript, Jest(Unit testing), Node.Js, Express.Js, MongoDB(Mongoose), SQL(Prisma) </li>
 <p>Check out my CodeWars profile to see my algorithm trainings : <a target="_blank" href="https://www.codewars.com/users/quarex">here</a></b> 👨‍💻</li>
 
 
