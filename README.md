@@ -1,9 +1,9 @@
 <h1>Fullstack JavaScript Developer</h1>
-<p>I am a JavaScript enthusiast. Tech stack I work right now is : React.JS, TypeScript, Jest(Unit testing), Node.Js, Express.Js, MongoDB(Mongoose), SQL(Prisma) </li>
-<p>Check out my CodeWars profile to see my algorithm trainings : <a target="_blank" href="https://www.codewars.com/users/quarex">here</a></b> 👨‍💻</li>
+<p>I am a JavaScript enthusiast. Tech stack : React.JS, TypeScript, Jest(Unit testing), Node.Js, Express.Js, MongoDB(Mongoose), SQL(Prisma) </li>
+<p>Here you can access my codewars profile where I improve my algorithm skills : <a target="_blank" href="https://www.codewars.com/users/quarex">here</a></b> 👨‍💻</li>
 
 
-<h3>You can see some of my frontend projects <a target="_blank" href="https://www.frontendmentor.io/profile/quArex-rQer">here</a> !</h3>
+<h3>You can see some of my frontend projects also by clicking <a target="_blank" href="https://www.frontendmentor.io/profile/quArex-rQer">here</a> !</h3>
 <hr/>
 
 </p>
