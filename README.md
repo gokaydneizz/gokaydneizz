@@ -1,6 +1,6 @@
-<li>Fullstack JavaScript Developer</li>
-<li>I generally work with React.JS,Vue.JS,pure CSS,vanilla JavaScript and actually almost all of the JavaScript frameworks !</b></li>
-<li>Check out my CodeWars profile to see my algorithm trainings : <a target="_blank" href="https://www.codewars.com/users/quarex">here</a></b> 👨‍💻</li>
+<h1>Fullstack JavaScript Developer</h1>
+<p>I generally work with React.JS,Vue.JS,pure CSS,vanilla JavaScript and actually almost all of the JavaScript frameworks !</b></li>
+<p>Check out my CodeWars profile to see my algorithm trainings : <a target="_blank" href="https://www.codewars.com/users/quarex">here</a></b> 👨‍💻</li>
 
 
 <h3>You can see some of my frontend projects <a target="_blank" href="https://www.frontendmentor.io/profile/quArex-rQer">here</a> !</h3>
