@@ -1,5 +1,5 @@
 <h1>Fullstack JavaScript Developer</h1>
-<p>I generally work with React.JS,Vue.JS,pure CSS,vanilla JavaScript and actually almost all of the JavaScript frameworks !</b></li>
+<p>I am not only a JavaScript developer but big fan of it, tech stack I work right now is : React.JS, TypeScript, Jest(Unit testing), Node.Js, Express.Js, MongoDB(Mongoose), SQL(Prisma) </li>
 <p>Check out my CodeWars profile to see my algorithm trainings : <a target="_blank" href="https://www.codewars.com/users/quarex">here</a></b> 👨‍💻</li>
 
 
