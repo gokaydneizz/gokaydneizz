@@ -5,7 +5,7 @@
 
 <ul>
   <li><b>Frontend</b>: React.js, Vue.js, Svelte.js, TypeScript</li>
-  <li><b>Backend</b>: Node.js, Express.js, Golang</li>
+  <li><b>Backend</b>: Node.js, Express.js, Golang, TypeScript</li>
   <li><b>Databases</b>: MongoDB (Mongoose), SQL (Prisma)</li>
   <li><b>Testing</b>: Jest (Unit testing)</li>
 </ul>
