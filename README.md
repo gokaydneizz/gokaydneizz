@@ -1,13 +1,20 @@
 <h1>Fullstack JavaScript Developer</h1>
-<p>I am a JavaScript enthusiast that is also interested in many languages such as Golang, Rust. </p>
-<p>Tech stack : React.js, TypeScript, Jest(Unit testing), Node.js, Express.js, MongoDB(Mongoose), SQL(Prisma)</p>
-<p>Here you can access my codewars profile where I improve my algorithm skills : <a target="_blank" href="https://www.codewars.com/users/quarex">here</a></b> 👨‍💻
-<p>I have been interested in Golang nowadays.I am both improving my backend skills and trying to have a differenet perspective of programming.</p>
+<p>I'm a passionate JavaScript enthusiast with a keen interest in exploring various languages like Golang and Rust. </p>
+<h2>Tech stack</h2>
 
-<h3>You can see some of my frontend projects also by clicking <a target="_blank" href="https://www.frontendmentor.io/profile/quArex-rQer">here</a> !</h3>
+
+<ul>
+  <li><b>Frontend</b>: React.js, Vue.js, Svelte.js, TypeScript</li>
+  <li><b>Backend</b>: Node.js, Express.js, Golang</li>
+  <li><b>Databases</b>: MongoDB (Mongoose), SQL (Prisma)</li>
+  <li><b>Testing</b>: Jest (Unit testing)</li>
+</ul>
+
+
+<p>You can check out my Codewars profile where I hone my algorithmic skills: <a target="_blank" href="https://www.codewars.com/users/quarex">here</a></b> 👨‍💻
+<p>Lately, I've been delving into Golang to enhance my backend skills and gain a fresh perspective on programming.</p>
 <hr/>
 
-</p>
 
 
 
