@@ -1,4 +1,4 @@
-<h1>Fullstack JavaScript Developer</h1>
+<h1>Fullstack Web Developer</h1>
 <p>I'm a passionate JavaScript enthusiast with a keen interest in exploring various languages like Golang and Rust. </p>
 <h2>Tech stack</h2>
 
