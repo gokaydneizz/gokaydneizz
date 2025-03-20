@@ -7,7 +7,8 @@
   <li><b>Frontend</b>: React.js, Vue.js, Svelte.js, TypeScript</li>
   <li><b>Backend</b>: Node.js, Express.js, Golang, TypeScript, Rest API, GraphQL</li>
   <li><b>Databases</b>: MongoDB (Mongoose), SQL (Prisma)</li>
-  <li><b>Testing</b>: Jest </li>
+  <li><b>Testing</b>: Jest, React Testing Library </li>
+  <li><b>Tools and Platforms:</b>:  Git & GitHub, Confluence, Jira, Postman, VS Code, Intellij IDE, Swagger, Docker </li>
 </ul>
 
 
